@@ -175,3 +175,4 @@ cython_debug/
 hiking_activities.csv
 hiking_activities.json
 refresh_token.txt
+.idea/**
